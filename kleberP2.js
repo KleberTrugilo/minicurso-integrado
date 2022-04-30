@@ -7,4 +7,4 @@ console.log("O valor de c é: ", c);
 b = 20;
 c = a + b;
 
-console.log("O valor de c agora é: ", c)
+console.log("O valor de c agora é: ", c);
